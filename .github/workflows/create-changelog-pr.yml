@@ -1,4 +1,4 @@
-name: Create a PR to add an entry to the CHANGELOG.md file in this repo
+redminame: Create a PR to add an entry to the CHANGELOG.md file in this repo
 
 # **What it does**: If a member of the github org posts a changelog comment, it creates a PR to update the CHANGELOG.md file.
 # **Why we have it**: This surfaces docs changelog details publicly.
